@@ -11,8 +11,6 @@ k
 ;app/src/main/java/com/dev_turtles/tampus/ui/BaseActivity.kt,1\0\10a33507b79f3c1e5cef46e8dd13d8ad1a917679
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-l
-<app/src/main/java/com/dev_turtles/tampus/ui/SplashAcivity.kt,e\1\e151d7560ecf6f6a3bc9043061b50635b4fc014b
 o
 ?app/src/main/java/com/dev_turtles/tampus/ui/RegisterActivity.kt,2\3\23efa2b8c789bdd02e909f80dc079a5ef27b47ee
 l
@@ -21,3 +19,13 @@ l
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 @
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+m
+=app/src/main/java/com/dev_turtles/tampus/ui/SplashActivity.kt,4\4\44677903897c2ee01d3925c58024db7633a0957e
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+t
+Dapp/src/main/java/com/dev_turtles/tampus/ui/MenuRegistrarActivity.kt,2\7\27ca36af5a3a30d1171201e33137e9feaee1a9f6

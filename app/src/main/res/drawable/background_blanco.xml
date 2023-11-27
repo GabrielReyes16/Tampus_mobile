@@ -1,0 +1,13 @@
+<!-- background_blanco.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Configuración del color de fondo blanco -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- Configuración de las esquinas redondeadas (opcional) -->
+    <corners android:radius="8dp" />
+
+    <!-- Otras configuraciones opcionales como bordes, gradientes, etc. -->
+
+</shape>
