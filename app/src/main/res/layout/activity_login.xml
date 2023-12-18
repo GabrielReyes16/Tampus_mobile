@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.LoginActivity">
+    tools:context=".ui.view.LoginActivity">
 
     <ImageView
         android:id="@+id/imgTampusLogo"
@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/tampus_logo" />
+        app:srcCompat="@drawable/ico_tampus" />
 
 
     <LinearLayout
@@ -75,7 +75,7 @@
             android:text="@string/iniciar_sesi_n"
             android:textAllCaps="false"
             android:textColor="#FFFFFF"
-            app:backgroundTint="#FF9800" />
+            app:backgroundTint="#009688" />
 
     </LinearLayout>
 

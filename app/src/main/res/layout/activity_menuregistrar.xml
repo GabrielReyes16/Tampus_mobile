@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.MenuRegistrarActivity">
+    tools:context=".ui.view.MenuRegistrarActivity">
     <Button
         android:id="@+id/btnBack"
         android:layout_width="wrap_content"
@@ -30,7 +30,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnBack"
-        app:srcCompat="@drawable/tampus_logo" />
+        app:srcCompat="@drawable/ico_tampus" />
 
 
     <TextView
@@ -65,7 +65,7 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="10dp"
             android:layout_weight="1"
-            android:backgroundTint="#F44336"
+            android:backgroundTint="#F47836"
             android:text="Anfitrión"
             android:textColor="#FFFFFF" />
 
@@ -75,7 +75,7 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="10dp"
             android:layout_weight="1"
-            android:backgroundTint="#00BCD4"
+            android:backgroundTint="#009688"
             android:text="Estudiante"
             android:textColor="#FFFFFF" />
 

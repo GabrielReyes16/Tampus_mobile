@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:showIn="navigation_view">
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/round_search_24"
+        android:title="Explora" />
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/round_favorite_24"
+        android:title="Favoritos" />
+    <item
+        android:id="@+id/navigation_reserva"
+        android:icon="@drawable/baseline_bed_24"
+        android:title="Reservas" />
 
-    <group android:checkableBehavior="single">
-        <item
-            android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
-        <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
-    </group>
+    <item
+        android:id="@+id/navigation_mensajes"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Mensajes" />
+    <item
+        android:id="@+id/navigation_perfil"
+        android:icon="@drawable/round_account_circle_24"
+        android:title="Perfil" />
 </menu>

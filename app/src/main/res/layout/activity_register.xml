@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.RegisterActivity">
+    tools:context=".ui.view.RegisterActivity">
 
     <TextView
         android:id="@+id/textView"
@@ -138,7 +138,7 @@
         android:text="Aceptar y continuar"
         android:textAllCaps="false"
         android:textColor="@color/light_font"
-        app:backgroundTint="#F44336"
+        app:backgroundTint="#009688"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:layout_editor_absoluteX="16dp" />

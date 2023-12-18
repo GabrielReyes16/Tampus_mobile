@@ -9,5 +9,5 @@ data class User(
     val password: String,
     val birthDate: String
 ): Serializable{
-    fun getImage() = "https://graph.facebook.com/$id/picture?type=large&width=720&height=720"
+    fun getImage() = "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg"
 }
